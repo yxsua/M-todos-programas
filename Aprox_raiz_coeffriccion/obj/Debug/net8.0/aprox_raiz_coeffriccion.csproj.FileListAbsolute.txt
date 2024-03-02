@@ -1,0 +1,28 @@
+C:\Users\yxsua\OneDrive\Documentos\Métodos-programas\aprox_raiz_coeffriccion\obj\Debug\net8.0\aprox_raiz_coeffriccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yxsua\OneDrive\Documentos\Métodos-programas\aprox_raiz_coeffriccion\obj\Debug\net8.0\aprox_raiz_coeffriccion.AssemblyInfoInputs.cache
+C:\Users\yxsua\OneDrive\Documentos\Métodos-programas\aprox_raiz_coeffriccion\obj\Debug\net8.0\aprox_raiz_coeffriccion.AssemblyInfo.cs
+C:\Users\yxsua\OneDrive\Documentos\Métodos-programas\aprox_raiz_coeffriccion\obj\Debug\net8.0\aprox_raiz_coeffriccion.csproj.CoreCompileInputs.cache
+C:\Users\yxsua\OneDrive\Documentos\Métodos-programas\aprox_raiz_coeffriccion\bin\Debug\net8.0\aprox_raiz_coeffriccion.exe
+C:\Users\yxsua\OneDrive\Documentos\Métodos-programas\aprox_raiz_coeffriccion\bin\Debug\net8.0\aprox_raiz_coeffriccion.deps.json
+C:\Users\yxsua\OneDrive\Documentos\Métodos-programas\aprox_raiz_coeffriccion\bin\Debug\net8.0\aprox_raiz_coeffriccion.runtimeconfig.json
+C:\Users\yxsua\OneDrive\Documentos\Métodos-programas\aprox_raiz_coeffriccion\bin\Debug\net8.0\aprox_raiz_coeffriccion.dll
+C:\Users\yxsua\OneDrive\Documentos\Métodos-programas\aprox_raiz_coeffriccion\bin\Debug\net8.0\aprox_raiz_coeffriccion.pdb
+C:\Users\yxsua\OneDrive\Documentos\Métodos-programas\aprox_raiz_coeffriccion\obj\Debug\net8.0\aprox_raiz_coeffriccion.dll
+C:\Users\yxsua\OneDrive\Documentos\Métodos-programas\aprox_raiz_coeffriccion\obj\Debug\net8.0\refint\aprox_raiz_coeffriccion.dll
+C:\Users\yxsua\OneDrive\Documentos\Métodos-programas\aprox_raiz_coeffriccion\obj\Debug\net8.0\aprox_raiz_coeffriccion.pdb
+C:\Users\yxsua\OneDrive\Documentos\Métodos-programas\aprox_raiz_coeffriccion\obj\Debug\net8.0\aprox_raiz_coeffriccion.genruntimeconfig.cache
+C:\Users\yxsua\OneDrive\Documentos\Métodos-programas\aprox_raiz_coeffriccion\obj\Debug\net8.0\ref\aprox_raiz_coeffriccion.dll
+C:\Users\yxsua\OneDrive\Documentos\4 - Cuarto Semestre\Métodos-programas\aprox_raiz_coeffriccion\bin\Debug\net8.0\aprox_raiz_coeffriccion.exe
+C:\Users\yxsua\OneDrive\Documentos\4 - Cuarto Semestre\Métodos-programas\aprox_raiz_coeffriccion\bin\Debug\net8.0\aprox_raiz_coeffriccion.deps.json
+C:\Users\yxsua\OneDrive\Documentos\4 - Cuarto Semestre\Métodos-programas\aprox_raiz_coeffriccion\bin\Debug\net8.0\aprox_raiz_coeffriccion.runtimeconfig.json
+C:\Users\yxsua\OneDrive\Documentos\4 - Cuarto Semestre\Métodos-programas\aprox_raiz_coeffriccion\bin\Debug\net8.0\aprox_raiz_coeffriccion.dll
+C:\Users\yxsua\OneDrive\Documentos\4 - Cuarto Semestre\Métodos-programas\aprox_raiz_coeffriccion\bin\Debug\net8.0\aprox_raiz_coeffriccion.pdb
+C:\Users\yxsua\OneDrive\Documentos\4 - Cuarto Semestre\Métodos-programas\aprox_raiz_coeffriccion\obj\Debug\net8.0\aprox_raiz_coeffriccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yxsua\OneDrive\Documentos\4 - Cuarto Semestre\Métodos-programas\aprox_raiz_coeffriccion\obj\Debug\net8.0\aprox_raiz_coeffriccion.AssemblyInfoInputs.cache
+C:\Users\yxsua\OneDrive\Documentos\4 - Cuarto Semestre\Métodos-programas\aprox_raiz_coeffriccion\obj\Debug\net8.0\aprox_raiz_coeffriccion.AssemblyInfo.cs
+C:\Users\yxsua\OneDrive\Documentos\4 - Cuarto Semestre\Métodos-programas\aprox_raiz_coeffriccion\obj\Debug\net8.0\aprox_raiz_coeffriccion.csproj.CoreCompileInputs.cache
+C:\Users\yxsua\OneDrive\Documentos\4 - Cuarto Semestre\Métodos-programas\aprox_raiz_coeffriccion\obj\Debug\net8.0\aprox_raiz_coeffriccion.dll
+C:\Users\yxsua\OneDrive\Documentos\4 - Cuarto Semestre\Métodos-programas\aprox_raiz_coeffriccion\obj\Debug\net8.0\refint\aprox_raiz_coeffriccion.dll
+C:\Users\yxsua\OneDrive\Documentos\4 - Cuarto Semestre\Métodos-programas\aprox_raiz_coeffriccion\obj\Debug\net8.0\aprox_raiz_coeffriccion.pdb
+C:\Users\yxsua\OneDrive\Documentos\4 - Cuarto Semestre\Métodos-programas\aprox_raiz_coeffriccion\obj\Debug\net8.0\aprox_raiz_coeffriccion.genruntimeconfig.cache
+C:\Users\yxsua\OneDrive\Documentos\4 - Cuarto Semestre\Métodos-programas\aprox_raiz_coeffriccion\obj\Debug\net8.0\ref\aprox_raiz_coeffriccion.dll
