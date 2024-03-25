@@ -15,3 +15,4 @@ C:\Users\yxsua\OneDrive\Documentos\4 - Cuarto Semestre\Métodos-programas\aprox_
 C:\Users\yxsua\OneDrive\Documentos\4 - Cuarto Semestre\Métodos-programas\aprox_raiz_funcion\obj\Debug\net8.0\aprox_raiz_funcion.csproj.AssemblyReference.cache
 C:\Users\yxsua\OneDrive\Documentos\4 - Cuarto Semestre\Métodos-programas\aprox_raiz_funcion\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
 C:\Users\yxsua\OneDrive\Documentos\4 - Cuarto Semestre\Métodos-programas\aprox_raiz_funcion\obj\Debug\net8.0\aprox_raiz_funcion.csproj.CopyComplete
+C:\Users\yxsua\OneDrive\Documentos\4 - Cuarto Semestre\Métodos-programas\aprox_raiz_funcion\obj\Debug\net8.0\aprox_raiz_funcion.sourcelink.json
